@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(12, 241, 65);
+    font-size: large;
+    background-image: url("https://i.pinimg.com/236x/c6/d3/50/c6d3509de26e832cc97922032962f7fc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: aqua;    
+    font-size: xx-large;
+    
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+    font-size: xx-large;
+    
+}
+
+.centro{
+    position: relative;
+    border: 5px solid black;
+}
+.formulario{
+    border: 5px solid black;
+    border-radius: 6%;
+    padding: 20px;
+}
